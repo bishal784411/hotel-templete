@@ -138,6 +138,7 @@ nav {
   transform: translateY(-100%);
   transition: 0.5s;
   z-index: -1;
+  justify-content: center;  
 }
 
 .nav__links.open {
